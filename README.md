@@ -1,1 +1,2 @@
-# fastapi-demo
+# Movies DB
+## Demo FastAPI and web scraping
